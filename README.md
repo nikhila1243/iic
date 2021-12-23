@@ -1,0 +1,2 @@
+# iic
+master n slave
